@@ -4,8 +4,6 @@
 
 ---
 
-![alt text](AIC-Research.png)
-
 ## 1. Purpose
 
 **AIC-research** is the academic and research arm of the **Adaptive Intelligence Circle (AIC)**.
