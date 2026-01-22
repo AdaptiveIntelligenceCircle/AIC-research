@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5e7b27e-22dd-4007-991a-56aac26ee5ab" />
+![alt text](AIC-Research.png)
 
 ## 1. Purpose
 
