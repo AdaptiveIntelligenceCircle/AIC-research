@@ -3,6 +3,14 @@
 ## An Open Research Initiative on Adaptive, Introspective, and Controllable Intelligence Systems
 
 ---
+<p align="center">
+  <img src="assets/AIC-Research.png" alt="AIC Logo" width="1024" length = "1024" />
+</p>
+
+<p align="center">
+  <strong>AIC Research for AIC</strong><br>
+  Education • Ethical scaling • Planetary readiness
+</p>
 
 ## 1. Purpose
 
